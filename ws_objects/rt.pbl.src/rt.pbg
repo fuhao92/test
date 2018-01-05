@@ -4,4 +4,5 @@
 @end;
 @begin Objects 
  "rt.sra" "rt.pbl";
+ "s.srw" "rt.pbl";
 @end;
